@@ -1,5 +1,6 @@
 # Project with frontend and backend connected
-
+## Description
+Basic project to connect frontend made with React to the backend made with Node and Express
 ## Features
 
 ### `Backend` -->
